@@ -3,13 +3,15 @@ body{
 }
 
 img{
-    width: 100%;
+    width: 30%;
     border: 5px solid white;
+    margin-left: 35%;
 }
 
 div{
-    width: 50%;
-    margin-left: 25%;
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 30px;
 }
 
 .text{
